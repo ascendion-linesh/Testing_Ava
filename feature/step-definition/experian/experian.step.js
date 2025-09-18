@@ -47,12 +47,14 @@ When('the user enters a valid loan amount, interest rate, and loan term', async 
 // Invalid inputs
 When('the user enters an invalid loan amount', async function () {
   await this.page.waitForSelector('#loanAmount', { timeout: 10000 });
+ await page.waitForTimeout(3000);
   await this.page.fill('#loanAmount', '100');
   await page.waitForTimeout(3000);
 });
 
 When('the user enters an invalid interest rate', async function () {
   await this.page.waitForSelector('#interestRate', { timeout: 10000 });
+ await page.waitForTimeout(3000);
   await this.page.fill('#interestRate', '0');
   await page.waitForTimeout(3000);
 });
@@ -60,6 +62,7 @@ When('the user enters an invalid interest rate', async function () {
 
 When('the user enters an invalid loan term', async function () {
   await this.page.waitForSelector('#term', { timeout: 10000 });
+ await page.waitForTimeout(3000);
   await this.page.fill('#term', '-12');
   await page.waitForTimeout(3000);
 });
