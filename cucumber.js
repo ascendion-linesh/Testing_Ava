@@ -28,6 +28,7 @@ module.exports = {
     'feature/experian/loancalculate.feature',
     '--require',
     'feature/step-definition/experian',
+    '--format',
     'html:playwright-report/experian-report.html'
   ],
 
