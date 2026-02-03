@@ -1,0 +1,3009 @@
+{
+  "Version": 1,
+  "Hash": "/A2De9/esnFeGJh6CzJcTDFWaIdIGfZVcOCFDsQpMJE=",
+  "Source": "BookCARTWebApi",
+  "BasePath": "_content/BookCARTWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BookCARTWebApi\\wwwroot",
+      "Source": "BookCARTWebApi",
+      "ContentRoot": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\",
+      "BasePath": "_content/BookCARTWebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\0325045f-99af-43a8-a038-67e7fab74988.jpg",
+      "SourceId": "BookCARTWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\",
+      "BasePath": "_content/BookCARTWebApi",
+      "RelativePath": "uploads/0325045f-99af-43a8-a038-67e7fab74988#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kcpsbiuc4e",
+      "Integrity": "VMLIqd/oMp4bPVqZ8zpqS6hSCPvG8QoR8lgt+Mwq28I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\0325045f-99af-43a8-a038-67e7fab74988.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\0c7d9dd7-e7a6-48c5-be60-1dffce33a554.jpg",
+      "SourceId": "BookCARTWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\",
+      "BasePath": "_content/BookCARTWebApi",
+      "RelativePath": "uploads/0c7d9dd7-e7a6-48c5-be60-1dffce33a554#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sc9nx56lm2",
+      "Integrity": "5Nv4Egccy8L9FAERJnMSfRC9cYvTpb8lt5MCIpdlKNc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\0c7d9dd7-e7a6-48c5-be60-1dffce33a554.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\194d9046-7b2c-406d-a465-f8da68cfee64.jpg",
+      "SourceId": "BookCARTWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\",
+      "BasePath": "_content/BookCARTWebApi",
+      "RelativePath": "uploads/194d9046-7b2c-406d-a465-f8da68cfee64#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sc9nx56lm2",
+      "Integrity": "5Nv4Egccy8L9FAERJnMSfRC9cYvTpb8lt5MCIpdlKNc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\194d9046-7b2c-406d-a465-f8da68cfee64.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\242f7295-257d-4884-a1f2-c93a7b76b880.jpg",
+      "SourceId": "BookCARTWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\",
+      "BasePath": "_content/BookCARTWebApi",
+      "RelativePath": "uploads/242f7295-257d-4884-a1f2-c93a7b76b880#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kcpsbiuc4e",
+      "Integrity": "VMLIqd/oMp4bPVqZ8zpqS6hSCPvG8QoR8lgt+Mwq28I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\242f7295-257d-4884-a1f2-c93a7b76b880.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\469a39dc-20e7-4ac3-ac63-99be540bbd95.jpg",
+      "SourceId": "BookCARTWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\",
+      "BasePath": "_content/BookCARTWebApi",
+      "RelativePath": "uploads/469a39dc-20e7-4ac3-ac63-99be540bbd95#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "do4pszb4k1",
+      "Integrity": "E2SlnlpyXqKCfMxhadDTe72yyq75ORWpu+Vr+w9cWUk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\469a39dc-20e7-4ac3-ac63-99be540bbd95.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\4c38f612-2c29-494c-b114-3af00eb5ad6f.jpeg",
+      "SourceId": "BookCARTWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\",
+      "BasePath": "_content/BookCARTWebApi",
+      "RelativePath": "uploads/4c38f612-2c29-494c-b114-3af00eb5ad6f#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0cjuqn2m90",
+      "Integrity": "oIxaW/C1NDydSsNZ7mFzeGmnfBmmKZI1wgNL9jDoW2Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\4c38f612-2c29-494c-b114-3af00eb5ad6f.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\5ac73c30-2c94-4ec8-bc4d-a9f30d686037.jpg",
+      "SourceId": "BookCARTWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\",
+      "BasePath": "_content/BookCARTWebApi",
+      "RelativePath": "uploads/5ac73c30-2c94-4ec8-bc4d-a9f30d686037#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sc9nx56lm2",
+      "Integrity": "5Nv4Egccy8L9FAERJnMSfRC9cYvTpb8lt5MCIpdlKNc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\5ac73c30-2c94-4ec8-bc4d-a9f30d686037.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\5dc15e61-6f37-4cfc-b71a-3efa99d8a755.jpg",
+      "SourceId": "BookCARTWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\",
+      "BasePath": "_content/BookCARTWebApi",
+      "RelativePath": "uploads/5dc15e61-6f37-4cfc-b71a-3efa99d8a755#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4rc4qbz60s",
+      "Integrity": "cNBYxyzbHuL18bmeUGmxEVuB+DTvWvx0Up/miGy3wmU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\5dc15e61-6f37-4cfc-b71a-3efa99d8a755.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\63d2332a-58c8-43fb-b609-abe213b3985e.jpg",
+      "SourceId": "BookCARTWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\",
+      "BasePath": "_content/BookCARTWebApi",
+      "RelativePath": "uploads/63d2332a-58c8-43fb-b609-abe213b3985e#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gp92io1duf",
+      "Integrity": "XGDvY3gjBrj1mOQGN1JjcLSAzE5WsG97t9tGGKRGkBw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\63d2332a-58c8-43fb-b609-abe213b3985e.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\79e7f470-13b0-4356-8383-29e330a6e560.jpg",
+      "SourceId": "BookCARTWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\",
+      "BasePath": "_content/BookCARTWebApi",
+      "RelativePath": "uploads/79e7f470-13b0-4356-8383-29e330a6e560#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4rc4qbz60s",
+      "Integrity": "cNBYxyzbHuL18bmeUGmxEVuB+DTvWvx0Up/miGy3wmU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\79e7f470-13b0-4356-8383-29e330a6e560.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\94ac1c04-d151-4afd-9c44-00718a9fd2d0.jpg",
+      "SourceId": "BookCARTWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\",
+      "BasePath": "_content/BookCARTWebApi",
+      "RelativePath": "uploads/94ac1c04-d151-4afd-9c44-00718a9fd2d0#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gp92io1duf",
+      "Integrity": "XGDvY3gjBrj1mOQGN1JjcLSAzE5WsG97t9tGGKRGkBw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\94ac1c04-d151-4afd-9c44-00718a9fd2d0.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\abd01e35-51c0-474f-9ed9-c5c72f6839a5.jpg",
+      "SourceId": "BookCARTWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\",
+      "BasePath": "_content/BookCARTWebApi",
+      "RelativePath": "uploads/abd01e35-51c0-474f-9ed9-c5c72f6839a5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kcpsbiuc4e",
+      "Integrity": "VMLIqd/oMp4bPVqZ8zpqS6hSCPvG8QoR8lgt+Mwq28I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\abd01e35-51c0-474f-9ed9-c5c72f6839a5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\ac8b20cf-4317-492b-a80e-dcc266ae0d40.jpg",
+      "SourceId": "BookCARTWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\",
+      "BasePath": "_content/BookCARTWebApi",
+      "RelativePath": "uploads/ac8b20cf-4317-492b-a80e-dcc266ae0d40#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kcpsbiuc4e",
+      "Integrity": "VMLIqd/oMp4bPVqZ8zpqS6hSCPvG8QoR8lgt+Mwq28I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ac8b20cf-4317-492b-a80e-dcc266ae0d40.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\ae5c161e-814f-4ae8-a363-a11f7e50fc49.pdf",
+      "SourceId": "BookCARTWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\",
+      "BasePath": "_content/BookCARTWebApi",
+      "RelativePath": "uploads/ae5c161e-814f-4ae8-a363-a11f7e50fc49#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "imnhc8y97w",
+      "Integrity": "2p3c93p+1PVA5mCvVN2SfwjzUoMPPJn5Im06Mjfiouw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ae5c161e-814f-4ae8-a363-a11f7e50fc49.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\b703e6cd-f272-4fbb-966f-746da701db4f.jpeg",
+      "SourceId": "BookCARTWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\",
+      "BasePath": "_content/BookCARTWebApi",
+      "RelativePath": "uploads/b703e6cd-f272-4fbb-966f-746da701db4f#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0cjuqn2m90",
+      "Integrity": "oIxaW/C1NDydSsNZ7mFzeGmnfBmmKZI1wgNL9jDoW2Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\b703e6cd-f272-4fbb-966f-746da701db4f.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\b91aec03-e397-4e48-a600-09225cfea18b.jpg",
+      "SourceId": "BookCARTWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\",
+      "BasePath": "_content/BookCARTWebApi",
+      "RelativePath": "uploads/b91aec03-e397-4e48-a600-09225cfea18b#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gp92io1duf",
+      "Integrity": "XGDvY3gjBrj1mOQGN1JjcLSAzE5WsG97t9tGGKRGkBw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\b91aec03-e397-4e48-a600-09225cfea18b.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\be1cb184-054b-4cc4-9b9c-c411a6ba068f.png",
+      "SourceId": "BookCARTWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\",
+      "BasePath": "_content/BookCARTWebApi",
+      "RelativePath": "uploads/be1cb184-054b-4cc4-9b9c-c411a6ba068f#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2ihpki09j8",
+      "Integrity": "Jn+awJKZQ36+/X+GyNPLXBmLHIDPdPp+15QPf02eX8o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\be1cb184-054b-4cc4-9b9c-c411a6ba068f.png"
+    },
+    {
+      "Identity": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\c75d8cfa-3e1c-48bb-ba09-7ef04716ea56.png",
+      "SourceId": "BookCARTWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\",
+      "BasePath": "_content/BookCARTWebApi",
+      "RelativePath": "uploads/c75d8cfa-3e1c-48bb-ba09-7ef04716ea56#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2uwom3evfx",
+      "Integrity": "xuHKJogbXmOEvzOwBc8XcypuReu5ocmamyj2zHyCXCk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\c75d8cfa-3e1c-48bb-ba09-7ef04716ea56.png"
+    },
+    {
+      "Identity": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\c7d709fe-de8c-4921-8ab3-f3c90df19652.jpg",
+      "SourceId": "BookCARTWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\",
+      "BasePath": "_content/BookCARTWebApi",
+      "RelativePath": "uploads/c7d709fe-de8c-4921-8ab3-f3c90df19652#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sc9nx56lm2",
+      "Integrity": "5Nv4Egccy8L9FAERJnMSfRC9cYvTpb8lt5MCIpdlKNc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\c7d709fe-de8c-4921-8ab3-f3c90df19652.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\c9113a4d-823a-43fd-af2e-13bae3cdd69d.jpg",
+      "SourceId": "BookCARTWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\",
+      "BasePath": "_content/BookCARTWebApi",
+      "RelativePath": "uploads/c9113a4d-823a-43fd-af2e-13bae3cdd69d#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gp92io1duf",
+      "Integrity": "XGDvY3gjBrj1mOQGN1JjcLSAzE5WsG97t9tGGKRGkBw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\c9113a4d-823a-43fd-af2e-13bae3cdd69d.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\cc013b57-2d6e-4e8e-9ff2-3a5d79660896.jpg",
+      "SourceId": "BookCARTWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\",
+      "BasePath": "_content/BookCARTWebApi",
+      "RelativePath": "uploads/cc013b57-2d6e-4e8e-9ff2-3a5d79660896#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kcpsbiuc4e",
+      "Integrity": "VMLIqd/oMp4bPVqZ8zpqS6hSCPvG8QoR8lgt+Mwq28I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\cc013b57-2d6e-4e8e-9ff2-3a5d79660896.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\cc4153d7-ab4f-417f-afee-04a22e77306e.jpg",
+      "SourceId": "BookCARTWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\",
+      "BasePath": "_content/BookCARTWebApi",
+      "RelativePath": "uploads/cc4153d7-ab4f-417f-afee-04a22e77306e#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gp92io1duf",
+      "Integrity": "XGDvY3gjBrj1mOQGN1JjcLSAzE5WsG97t9tGGKRGkBw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\cc4153d7-ab4f-417f-afee-04a22e77306e.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\cc88b497-5db0-4a91-9e44-7229b89eca1e.jpg",
+      "SourceId": "BookCARTWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\",
+      "BasePath": "_content/BookCARTWebApi",
+      "RelativePath": "uploads/cc88b497-5db0-4a91-9e44-7229b89eca1e#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gp92io1duf",
+      "Integrity": "XGDvY3gjBrj1mOQGN1JjcLSAzE5WsG97t9tGGKRGkBw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\cc88b497-5db0-4a91-9e44-7229b89eca1e.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\cde36762-614a-4590-94b9-cb68bfd75d9c.jpg",
+      "SourceId": "BookCARTWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\",
+      "BasePath": "_content/BookCARTWebApi",
+      "RelativePath": "uploads/cde36762-614a-4590-94b9-cb68bfd75d9c#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sc9nx56lm2",
+      "Integrity": "5Nv4Egccy8L9FAERJnMSfRC9cYvTpb8lt5MCIpdlKNc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\cde36762-614a-4590-94b9-cb68bfd75d9c.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\e13eb4d3-0477-4ad1-813a-953b27924d8e.jpg",
+      "SourceId": "BookCARTWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\",
+      "BasePath": "_content/BookCARTWebApi",
+      "RelativePath": "uploads/e13eb4d3-0477-4ad1-813a-953b27924d8e#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sc9nx56lm2",
+      "Integrity": "5Nv4Egccy8L9FAERJnMSfRC9cYvTpb8lt5MCIpdlKNc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\e13eb4d3-0477-4ad1-813a-953b27924d8e.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\e351838d-8846-46a2-830d-b32c53a8e1a6.jpg",
+      "SourceId": "BookCARTWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\",
+      "BasePath": "_content/BookCARTWebApi",
+      "RelativePath": "uploads/e351838d-8846-46a2-830d-b32c53a8e1a6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4rc4qbz60s",
+      "Integrity": "cNBYxyzbHuL18bmeUGmxEVuB+DTvWvx0Up/miGy3wmU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\e351838d-8846-46a2-830d-b32c53a8e1a6.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\e6548775-9bc5-41b0-b8a5-45d89f0f4474.jpeg",
+      "SourceId": "BookCARTWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\",
+      "BasePath": "_content/BookCARTWebApi",
+      "RelativePath": "uploads/e6548775-9bc5-41b0-b8a5-45d89f0f4474#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0cjuqn2m90",
+      "Integrity": "oIxaW/C1NDydSsNZ7mFzeGmnfBmmKZI1wgNL9jDoW2Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\e6548775-9bc5-41b0-b8a5-45d89f0f4474.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\e73634b3-046e-42d4-b23e-d749f978bd6b.jpg",
+      "SourceId": "BookCARTWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\",
+      "BasePath": "_content/BookCARTWebApi",
+      "RelativePath": "uploads/e73634b3-046e-42d4-b23e-d749f978bd6b#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sc9nx56lm2",
+      "Integrity": "5Nv4Egccy8L9FAERJnMSfRC9cYvTpb8lt5MCIpdlKNc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\e73634b3-046e-42d4-b23e-d749f978bd6b.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\f0ca6e23-99fd-4b34-80d1-53de7b15aee7.jpg",
+      "SourceId": "BookCARTWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\",
+      "BasePath": "_content/BookCARTWebApi",
+      "RelativePath": "uploads/f0ca6e23-99fd-4b34-80d1-53de7b15aee7#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gp92io1duf",
+      "Integrity": "XGDvY3gjBrj1mOQGN1JjcLSAzE5WsG97t9tGGKRGkBw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\f0ca6e23-99fd-4b34-80d1-53de7b15aee7.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/0325045f-99af-43a8-a038-67e7fab74988.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\0325045f-99af-43a8-a038-67e7fab74988.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VMLIqd/oMp4bPVqZ8zpqS6hSCPvG8QoR8lgt+Mwq28I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VMLIqd/oMp4bPVqZ8zpqS6hSCPvG8QoR8lgt+Mwq28I="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/0325045f-99af-43a8-a038-67e7fab74988.kcpsbiuc4e.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\0325045f-99af-43a8-a038-67e7fab74988.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VMLIqd/oMp4bPVqZ8zpqS6hSCPvG8QoR8lgt+Mwq28I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kcpsbiuc4e"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/0325045f-99af-43a8-a038-67e7fab74988.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VMLIqd/oMp4bPVqZ8zpqS6hSCPvG8QoR8lgt+Mwq28I="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/0c7d9dd7-e7a6-48c5-be60-1dffce33a554.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\0c7d9dd7-e7a6-48c5-be60-1dffce33a554.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89480"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5Nv4Egccy8L9FAERJnMSfRC9cYvTpb8lt5MCIpdlKNc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5Nv4Egccy8L9FAERJnMSfRC9cYvTpb8lt5MCIpdlKNc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/0c7d9dd7-e7a6-48c5-be60-1dffce33a554.sc9nx56lm2.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\0c7d9dd7-e7a6-48c5-be60-1dffce33a554.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89480"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5Nv4Egccy8L9FAERJnMSfRC9cYvTpb8lt5MCIpdlKNc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sc9nx56lm2"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/0c7d9dd7-e7a6-48c5-be60-1dffce33a554.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5Nv4Egccy8L9FAERJnMSfRC9cYvTpb8lt5MCIpdlKNc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/194d9046-7b2c-406d-a465-f8da68cfee64.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\194d9046-7b2c-406d-a465-f8da68cfee64.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89480"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5Nv4Egccy8L9FAERJnMSfRC9cYvTpb8lt5MCIpdlKNc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5Nv4Egccy8L9FAERJnMSfRC9cYvTpb8lt5MCIpdlKNc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/194d9046-7b2c-406d-a465-f8da68cfee64.sc9nx56lm2.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\194d9046-7b2c-406d-a465-f8da68cfee64.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89480"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5Nv4Egccy8L9FAERJnMSfRC9cYvTpb8lt5MCIpdlKNc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sc9nx56lm2"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/194d9046-7b2c-406d-a465-f8da68cfee64.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5Nv4Egccy8L9FAERJnMSfRC9cYvTpb8lt5MCIpdlKNc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/242f7295-257d-4884-a1f2-c93a7b76b880.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\242f7295-257d-4884-a1f2-c93a7b76b880.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VMLIqd/oMp4bPVqZ8zpqS6hSCPvG8QoR8lgt+Mwq28I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VMLIqd/oMp4bPVqZ8zpqS6hSCPvG8QoR8lgt+Mwq28I="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/242f7295-257d-4884-a1f2-c93a7b76b880.kcpsbiuc4e.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\242f7295-257d-4884-a1f2-c93a7b76b880.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VMLIqd/oMp4bPVqZ8zpqS6hSCPvG8QoR8lgt+Mwq28I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kcpsbiuc4e"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/242f7295-257d-4884-a1f2-c93a7b76b880.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VMLIqd/oMp4bPVqZ8zpqS6hSCPvG8QoR8lgt+Mwq28I="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/469a39dc-20e7-4ac3-ac63-99be540bbd95.do4pszb4k1.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\469a39dc-20e7-4ac3-ac63-99be540bbd95.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "152545"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E2SlnlpyXqKCfMxhadDTe72yyq75ORWpu+Vr+w9cWUk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "do4pszb4k1"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/469a39dc-20e7-4ac3-ac63-99be540bbd95.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-E2SlnlpyXqKCfMxhadDTe72yyq75ORWpu+Vr+w9cWUk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/469a39dc-20e7-4ac3-ac63-99be540bbd95.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\469a39dc-20e7-4ac3-ac63-99be540bbd95.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "152545"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E2SlnlpyXqKCfMxhadDTe72yyq75ORWpu+Vr+w9cWUk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-E2SlnlpyXqKCfMxhadDTe72yyq75ORWpu+Vr+w9cWUk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/4c38f612-2c29-494c-b114-3af00eb5ad6f.0cjuqn2m90.jpeg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\4c38f612-2c29-494c-b114-3af00eb5ad6f.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20652"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oIxaW/C1NDydSsNZ7mFzeGmnfBmmKZI1wgNL9jDoW2Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0cjuqn2m90"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/4c38f612-2c29-494c-b114-3af00eb5ad6f.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oIxaW/C1NDydSsNZ7mFzeGmnfBmmKZI1wgNL9jDoW2Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/4c38f612-2c29-494c-b114-3af00eb5ad6f.jpeg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\4c38f612-2c29-494c-b114-3af00eb5ad6f.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20652"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oIxaW/C1NDydSsNZ7mFzeGmnfBmmKZI1wgNL9jDoW2Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oIxaW/C1NDydSsNZ7mFzeGmnfBmmKZI1wgNL9jDoW2Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/5ac73c30-2c94-4ec8-bc4d-a9f30d686037.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\5ac73c30-2c94-4ec8-bc4d-a9f30d686037.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89480"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5Nv4Egccy8L9FAERJnMSfRC9cYvTpb8lt5MCIpdlKNc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5Nv4Egccy8L9FAERJnMSfRC9cYvTpb8lt5MCIpdlKNc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/5ac73c30-2c94-4ec8-bc4d-a9f30d686037.sc9nx56lm2.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\5ac73c30-2c94-4ec8-bc4d-a9f30d686037.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89480"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5Nv4Egccy8L9FAERJnMSfRC9cYvTpb8lt5MCIpdlKNc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sc9nx56lm2"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/5ac73c30-2c94-4ec8-bc4d-a9f30d686037.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5Nv4Egccy8L9FAERJnMSfRC9cYvTpb8lt5MCIpdlKNc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/5dc15e61-6f37-4cfc-b71a-3efa99d8a755.4rc4qbz60s.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\5dc15e61-6f37-4cfc-b71a-3efa99d8a755.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "127974"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cNBYxyzbHuL18bmeUGmxEVuB+DTvWvx0Up/miGy3wmU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4rc4qbz60s"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/5dc15e61-6f37-4cfc-b71a-3efa99d8a755.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cNBYxyzbHuL18bmeUGmxEVuB+DTvWvx0Up/miGy3wmU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/5dc15e61-6f37-4cfc-b71a-3efa99d8a755.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\5dc15e61-6f37-4cfc-b71a-3efa99d8a755.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "127974"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cNBYxyzbHuL18bmeUGmxEVuB+DTvWvx0Up/miGy3wmU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cNBYxyzbHuL18bmeUGmxEVuB+DTvWvx0Up/miGy3wmU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/63d2332a-58c8-43fb-b609-abe213b3985e.gp92io1duf.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\63d2332a-58c8-43fb-b609-abe213b3985e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5827"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XGDvY3gjBrj1mOQGN1JjcLSAzE5WsG97t9tGGKRGkBw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gp92io1duf"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/63d2332a-58c8-43fb-b609-abe213b3985e.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XGDvY3gjBrj1mOQGN1JjcLSAzE5WsG97t9tGGKRGkBw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/63d2332a-58c8-43fb-b609-abe213b3985e.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\63d2332a-58c8-43fb-b609-abe213b3985e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5827"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XGDvY3gjBrj1mOQGN1JjcLSAzE5WsG97t9tGGKRGkBw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XGDvY3gjBrj1mOQGN1JjcLSAzE5WsG97t9tGGKRGkBw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/79e7f470-13b0-4356-8383-29e330a6e560.4rc4qbz60s.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\79e7f470-13b0-4356-8383-29e330a6e560.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "127974"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cNBYxyzbHuL18bmeUGmxEVuB+DTvWvx0Up/miGy3wmU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4rc4qbz60s"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/79e7f470-13b0-4356-8383-29e330a6e560.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cNBYxyzbHuL18bmeUGmxEVuB+DTvWvx0Up/miGy3wmU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/79e7f470-13b0-4356-8383-29e330a6e560.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\79e7f470-13b0-4356-8383-29e330a6e560.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "127974"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cNBYxyzbHuL18bmeUGmxEVuB+DTvWvx0Up/miGy3wmU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cNBYxyzbHuL18bmeUGmxEVuB+DTvWvx0Up/miGy3wmU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/94ac1c04-d151-4afd-9c44-00718a9fd2d0.gp92io1duf.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\94ac1c04-d151-4afd-9c44-00718a9fd2d0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5827"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XGDvY3gjBrj1mOQGN1JjcLSAzE5WsG97t9tGGKRGkBw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gp92io1duf"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/94ac1c04-d151-4afd-9c44-00718a9fd2d0.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XGDvY3gjBrj1mOQGN1JjcLSAzE5WsG97t9tGGKRGkBw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/94ac1c04-d151-4afd-9c44-00718a9fd2d0.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\94ac1c04-d151-4afd-9c44-00718a9fd2d0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5827"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XGDvY3gjBrj1mOQGN1JjcLSAzE5WsG97t9tGGKRGkBw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XGDvY3gjBrj1mOQGN1JjcLSAzE5WsG97t9tGGKRGkBw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/abd01e35-51c0-474f-9ed9-c5c72f6839a5.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\abd01e35-51c0-474f-9ed9-c5c72f6839a5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VMLIqd/oMp4bPVqZ8zpqS6hSCPvG8QoR8lgt+Mwq28I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VMLIqd/oMp4bPVqZ8zpqS6hSCPvG8QoR8lgt+Mwq28I="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/abd01e35-51c0-474f-9ed9-c5c72f6839a5.kcpsbiuc4e.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\abd01e35-51c0-474f-9ed9-c5c72f6839a5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VMLIqd/oMp4bPVqZ8zpqS6hSCPvG8QoR8lgt+Mwq28I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kcpsbiuc4e"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/abd01e35-51c0-474f-9ed9-c5c72f6839a5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VMLIqd/oMp4bPVqZ8zpqS6hSCPvG8QoR8lgt+Mwq28I="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ac8b20cf-4317-492b-a80e-dcc266ae0d40.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\ac8b20cf-4317-492b-a80e-dcc266ae0d40.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VMLIqd/oMp4bPVqZ8zpqS6hSCPvG8QoR8lgt+Mwq28I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VMLIqd/oMp4bPVqZ8zpqS6hSCPvG8QoR8lgt+Mwq28I="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ac8b20cf-4317-492b-a80e-dcc266ae0d40.kcpsbiuc4e.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\ac8b20cf-4317-492b-a80e-dcc266ae0d40.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VMLIqd/oMp4bPVqZ8zpqS6hSCPvG8QoR8lgt+Mwq28I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kcpsbiuc4e"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ac8b20cf-4317-492b-a80e-dcc266ae0d40.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VMLIqd/oMp4bPVqZ8zpqS6hSCPvG8QoR8lgt+Mwq28I="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ae5c161e-814f-4ae8-a363-a11f7e50fc49.imnhc8y97w.pdf",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\ae5c161e-814f-4ae8-a363-a11f7e50fc49.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "766969"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2p3c93p+1PVA5mCvVN2SfwjzUoMPPJn5Im06Mjfiouw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "imnhc8y97w"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ae5c161e-814f-4ae8-a363-a11f7e50fc49.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2p3c93p+1PVA5mCvVN2SfwjzUoMPPJn5Im06Mjfiouw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ae5c161e-814f-4ae8-a363-a11f7e50fc49.pdf",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\ae5c161e-814f-4ae8-a363-a11f7e50fc49.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "766969"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2p3c93p+1PVA5mCvVN2SfwjzUoMPPJn5Im06Mjfiouw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2p3c93p+1PVA5mCvVN2SfwjzUoMPPJn5Im06Mjfiouw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/b703e6cd-f272-4fbb-966f-746da701db4f.0cjuqn2m90.jpeg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\b703e6cd-f272-4fbb-966f-746da701db4f.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20652"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oIxaW/C1NDydSsNZ7mFzeGmnfBmmKZI1wgNL9jDoW2Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0cjuqn2m90"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/b703e6cd-f272-4fbb-966f-746da701db4f.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oIxaW/C1NDydSsNZ7mFzeGmnfBmmKZI1wgNL9jDoW2Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/b703e6cd-f272-4fbb-966f-746da701db4f.jpeg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\b703e6cd-f272-4fbb-966f-746da701db4f.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20652"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oIxaW/C1NDydSsNZ7mFzeGmnfBmmKZI1wgNL9jDoW2Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oIxaW/C1NDydSsNZ7mFzeGmnfBmmKZI1wgNL9jDoW2Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/b91aec03-e397-4e48-a600-09225cfea18b.gp92io1duf.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\b91aec03-e397-4e48-a600-09225cfea18b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5827"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XGDvY3gjBrj1mOQGN1JjcLSAzE5WsG97t9tGGKRGkBw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gp92io1duf"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/b91aec03-e397-4e48-a600-09225cfea18b.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XGDvY3gjBrj1mOQGN1JjcLSAzE5WsG97t9tGGKRGkBw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/b91aec03-e397-4e48-a600-09225cfea18b.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\b91aec03-e397-4e48-a600-09225cfea18b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5827"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XGDvY3gjBrj1mOQGN1JjcLSAzE5WsG97t9tGGKRGkBw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XGDvY3gjBrj1mOQGN1JjcLSAzE5WsG97t9tGGKRGkBw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/be1cb184-054b-4cc4-9b9c-c411a6ba068f.2ihpki09j8.png",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\be1cb184-054b-4cc4-9b9c-c411a6ba068f.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "234616"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jn+awJKZQ36+/X+GyNPLXBmLHIDPdPp+15QPf02eX8o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2ihpki09j8"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/be1cb184-054b-4cc4-9b9c-c411a6ba068f.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jn+awJKZQ36+/X+GyNPLXBmLHIDPdPp+15QPf02eX8o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/be1cb184-054b-4cc4-9b9c-c411a6ba068f.png",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\be1cb184-054b-4cc4-9b9c-c411a6ba068f.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "234616"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jn+awJKZQ36+/X+GyNPLXBmLHIDPdPp+15QPf02eX8o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jn+awJKZQ36+/X+GyNPLXBmLHIDPdPp+15QPf02eX8o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/c75d8cfa-3e1c-48bb-ba09-7ef04716ea56.2uwom3evfx.png",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\c75d8cfa-3e1c-48bb-ba09-7ef04716ea56.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "856937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xuHKJogbXmOEvzOwBc8XcypuReu5ocmamyj2zHyCXCk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2uwom3evfx"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/c75d8cfa-3e1c-48bb-ba09-7ef04716ea56.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xuHKJogbXmOEvzOwBc8XcypuReu5ocmamyj2zHyCXCk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/c75d8cfa-3e1c-48bb-ba09-7ef04716ea56.png",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\c75d8cfa-3e1c-48bb-ba09-7ef04716ea56.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "856937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xuHKJogbXmOEvzOwBc8XcypuReu5ocmamyj2zHyCXCk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xuHKJogbXmOEvzOwBc8XcypuReu5ocmamyj2zHyCXCk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/c7d709fe-de8c-4921-8ab3-f3c90df19652.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\c7d709fe-de8c-4921-8ab3-f3c90df19652.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89480"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5Nv4Egccy8L9FAERJnMSfRC9cYvTpb8lt5MCIpdlKNc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5Nv4Egccy8L9FAERJnMSfRC9cYvTpb8lt5MCIpdlKNc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/c7d709fe-de8c-4921-8ab3-f3c90df19652.sc9nx56lm2.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\c7d709fe-de8c-4921-8ab3-f3c90df19652.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89480"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5Nv4Egccy8L9FAERJnMSfRC9cYvTpb8lt5MCIpdlKNc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sc9nx56lm2"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/c7d709fe-de8c-4921-8ab3-f3c90df19652.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5Nv4Egccy8L9FAERJnMSfRC9cYvTpb8lt5MCIpdlKNc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/c9113a4d-823a-43fd-af2e-13bae3cdd69d.gp92io1duf.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\c9113a4d-823a-43fd-af2e-13bae3cdd69d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5827"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XGDvY3gjBrj1mOQGN1JjcLSAzE5WsG97t9tGGKRGkBw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gp92io1duf"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/c9113a4d-823a-43fd-af2e-13bae3cdd69d.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XGDvY3gjBrj1mOQGN1JjcLSAzE5WsG97t9tGGKRGkBw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/c9113a4d-823a-43fd-af2e-13bae3cdd69d.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\c9113a4d-823a-43fd-af2e-13bae3cdd69d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5827"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XGDvY3gjBrj1mOQGN1JjcLSAzE5WsG97t9tGGKRGkBw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XGDvY3gjBrj1mOQGN1JjcLSAzE5WsG97t9tGGKRGkBw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cc013b57-2d6e-4e8e-9ff2-3a5d79660896.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\cc013b57-2d6e-4e8e-9ff2-3a5d79660896.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VMLIqd/oMp4bPVqZ8zpqS6hSCPvG8QoR8lgt+Mwq28I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VMLIqd/oMp4bPVqZ8zpqS6hSCPvG8QoR8lgt+Mwq28I="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cc013b57-2d6e-4e8e-9ff2-3a5d79660896.kcpsbiuc4e.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\cc013b57-2d6e-4e8e-9ff2-3a5d79660896.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VMLIqd/oMp4bPVqZ8zpqS6hSCPvG8QoR8lgt+Mwq28I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kcpsbiuc4e"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/cc013b57-2d6e-4e8e-9ff2-3a5d79660896.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VMLIqd/oMp4bPVqZ8zpqS6hSCPvG8QoR8lgt+Mwq28I="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cc4153d7-ab4f-417f-afee-04a22e77306e.gp92io1duf.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\cc4153d7-ab4f-417f-afee-04a22e77306e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5827"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XGDvY3gjBrj1mOQGN1JjcLSAzE5WsG97t9tGGKRGkBw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gp92io1duf"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/cc4153d7-ab4f-417f-afee-04a22e77306e.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XGDvY3gjBrj1mOQGN1JjcLSAzE5WsG97t9tGGKRGkBw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cc4153d7-ab4f-417f-afee-04a22e77306e.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\cc4153d7-ab4f-417f-afee-04a22e77306e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5827"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XGDvY3gjBrj1mOQGN1JjcLSAzE5WsG97t9tGGKRGkBw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XGDvY3gjBrj1mOQGN1JjcLSAzE5WsG97t9tGGKRGkBw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cc88b497-5db0-4a91-9e44-7229b89eca1e.gp92io1duf.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\cc88b497-5db0-4a91-9e44-7229b89eca1e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5827"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XGDvY3gjBrj1mOQGN1JjcLSAzE5WsG97t9tGGKRGkBw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gp92io1duf"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/cc88b497-5db0-4a91-9e44-7229b89eca1e.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XGDvY3gjBrj1mOQGN1JjcLSAzE5WsG97t9tGGKRGkBw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cc88b497-5db0-4a91-9e44-7229b89eca1e.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\cc88b497-5db0-4a91-9e44-7229b89eca1e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5827"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XGDvY3gjBrj1mOQGN1JjcLSAzE5WsG97t9tGGKRGkBw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XGDvY3gjBrj1mOQGN1JjcLSAzE5WsG97t9tGGKRGkBw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cde36762-614a-4590-94b9-cb68bfd75d9c.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\cde36762-614a-4590-94b9-cb68bfd75d9c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89480"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5Nv4Egccy8L9FAERJnMSfRC9cYvTpb8lt5MCIpdlKNc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5Nv4Egccy8L9FAERJnMSfRC9cYvTpb8lt5MCIpdlKNc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cde36762-614a-4590-94b9-cb68bfd75d9c.sc9nx56lm2.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\cde36762-614a-4590-94b9-cb68bfd75d9c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89480"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5Nv4Egccy8L9FAERJnMSfRC9cYvTpb8lt5MCIpdlKNc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sc9nx56lm2"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/cde36762-614a-4590-94b9-cb68bfd75d9c.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5Nv4Egccy8L9FAERJnMSfRC9cYvTpb8lt5MCIpdlKNc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/e13eb4d3-0477-4ad1-813a-953b27924d8e.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\e13eb4d3-0477-4ad1-813a-953b27924d8e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89480"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5Nv4Egccy8L9FAERJnMSfRC9cYvTpb8lt5MCIpdlKNc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5Nv4Egccy8L9FAERJnMSfRC9cYvTpb8lt5MCIpdlKNc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/e13eb4d3-0477-4ad1-813a-953b27924d8e.sc9nx56lm2.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\e13eb4d3-0477-4ad1-813a-953b27924d8e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89480"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5Nv4Egccy8L9FAERJnMSfRC9cYvTpb8lt5MCIpdlKNc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sc9nx56lm2"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/e13eb4d3-0477-4ad1-813a-953b27924d8e.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5Nv4Egccy8L9FAERJnMSfRC9cYvTpb8lt5MCIpdlKNc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/e351838d-8846-46a2-830d-b32c53a8e1a6.4rc4qbz60s.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\e351838d-8846-46a2-830d-b32c53a8e1a6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "127974"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cNBYxyzbHuL18bmeUGmxEVuB+DTvWvx0Up/miGy3wmU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4rc4qbz60s"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/e351838d-8846-46a2-830d-b32c53a8e1a6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cNBYxyzbHuL18bmeUGmxEVuB+DTvWvx0Up/miGy3wmU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/e351838d-8846-46a2-830d-b32c53a8e1a6.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\e351838d-8846-46a2-830d-b32c53a8e1a6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "127974"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cNBYxyzbHuL18bmeUGmxEVuB+DTvWvx0Up/miGy3wmU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cNBYxyzbHuL18bmeUGmxEVuB+DTvWvx0Up/miGy3wmU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/e6548775-9bc5-41b0-b8a5-45d89f0f4474.0cjuqn2m90.jpeg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\e6548775-9bc5-41b0-b8a5-45d89f0f4474.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20652"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oIxaW/C1NDydSsNZ7mFzeGmnfBmmKZI1wgNL9jDoW2Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0cjuqn2m90"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/e6548775-9bc5-41b0-b8a5-45d89f0f4474.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oIxaW/C1NDydSsNZ7mFzeGmnfBmmKZI1wgNL9jDoW2Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/e6548775-9bc5-41b0-b8a5-45d89f0f4474.jpeg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\e6548775-9bc5-41b0-b8a5-45d89f0f4474.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20652"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oIxaW/C1NDydSsNZ7mFzeGmnfBmmKZI1wgNL9jDoW2Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oIxaW/C1NDydSsNZ7mFzeGmnfBmmKZI1wgNL9jDoW2Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/e73634b3-046e-42d4-b23e-d749f978bd6b.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\e73634b3-046e-42d4-b23e-d749f978bd6b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89480"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5Nv4Egccy8L9FAERJnMSfRC9cYvTpb8lt5MCIpdlKNc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5Nv4Egccy8L9FAERJnMSfRC9cYvTpb8lt5MCIpdlKNc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/e73634b3-046e-42d4-b23e-d749f978bd6b.sc9nx56lm2.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\e73634b3-046e-42d4-b23e-d749f978bd6b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89480"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5Nv4Egccy8L9FAERJnMSfRC9cYvTpb8lt5MCIpdlKNc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sc9nx56lm2"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/e73634b3-046e-42d4-b23e-d749f978bd6b.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5Nv4Egccy8L9FAERJnMSfRC9cYvTpb8lt5MCIpdlKNc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/f0ca6e23-99fd-4b34-80d1-53de7b15aee7.gp92io1duf.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\f0ca6e23-99fd-4b34-80d1-53de7b15aee7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5827"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XGDvY3gjBrj1mOQGN1JjcLSAzE5WsG97t9tGGKRGkBw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gp92io1duf"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/f0ca6e23-99fd-4b34-80d1-53de7b15aee7.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XGDvY3gjBrj1mOQGN1JjcLSAzE5WsG97t9tGGKRGkBw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/f0ca6e23-99fd-4b34-80d1-53de7b15aee7.jpg",
+      "AssetFile": "C:\\Users\\linesh.mishra\\BookCART\\ServerApp\\BookCARTWebApi\\BookCARTWebApi\\BookCARTWebApi\\wwwroot\\uploads\\f0ca6e23-99fd-4b34-80d1-53de7b15aee7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5827"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XGDvY3gjBrj1mOQGN1JjcLSAzE5WsG97t9tGGKRGkBw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 09:22:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XGDvY3gjBrj1mOQGN1JjcLSAzE5WsG97t9tGGKRGkBw="
+        }
+      ]
+    }
+  ]
+}
